@@ -10,6 +10,8 @@
 
 //Hola mundo
 
+/*Otro comentario*/
+
 @interface AppDelegate ()
 
 @end
